@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\AbstractionExample.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\AbstractionExample.csproj",
       "projectName": "AbstractionExample",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\AbstractionExample.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\AbstractionExample.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

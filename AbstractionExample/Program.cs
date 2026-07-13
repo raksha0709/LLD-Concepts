@@ -1,10 +1,23 @@
-﻿namespace AbstractionExample
+﻿using System;
+using AbstractionExample;
+
+namespace AbstractionExample
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            INotification[] notifications =
+            {
+                new EmailNotification(),
+                new SmsNotification(),
+                new WhatsappNotification()
+            };
+
+            foreach (var notification in notifications)
+            {
+                notification.Send("Hello");
+            }
         }
     }
 }

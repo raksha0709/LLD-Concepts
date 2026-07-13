@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CB9DBB3-1738-4558-B803-7405B650E29C}|AbstractionExample.csproj|c:\\users\\hp\\onedrive\\documents\\self_paced\\place_in\\sys-design-lld-hld\\lld-practice\\abstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CB9DBB3-1738-4558-B803-7405B650E29C}|AbstractionExample.csproj|c:\\users\\hp\\onedrive\\documents\\self_paced\\place_in\\sys-design-lld-hld\\lld-practice\\lld-concepts\\abstractionexample\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB9DBB3-1738-4558-B803-7405B650E29C}|AbstractionExample.csproj|solutionrelative:notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB9DBB3-1738-4558-B803-7405B650E29C}|AbstractionExample.csproj|c:\\users\\hp\\onedrive\\documents\\self_paced\\place_in\\sys-design-lld-hld\\lld-practice\\lld-concepts\\abstractionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CB9DBB3-1738-4558-B803-7405B650E29C}|AbstractionExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\AbstractionExample\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T12:56:47.678Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -48,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\Notification.cs",
+              "RelativeToolTip": "Notification.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:37:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\self_paced\\place_in\\sys-design-lld-hld\\LLD-practice\\LLD-Concepts\\AbstractionExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T12:56:47.678Z",
+              "EditorCaption": ""
             }
           ]
         }
